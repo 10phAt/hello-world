@@ -1,2 +1,6 @@
 # hello-world
-just anotehr repository
+just another repository
+
+hi stalkers!
+
+10phAt is here trying to learn some programming
